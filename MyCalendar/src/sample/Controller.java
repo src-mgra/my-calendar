@@ -12,7 +12,7 @@ public class Controller {
     String[] wd = new String[]{"Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"};
     String[] mname = new String[]{"Januar", "Februar", "M\u00e4rz", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"};
     String rand = "\n";
-    // public byte day;
+   
     @FXML
     TextField dayTxt;
     byte day;
